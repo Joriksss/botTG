@@ -51,8 +51,8 @@ requests</code></pre>
 
   <p>Пример:</p>
   <pre><code>"user_id" -> "123456789"
-"name"    -> "Артем"
-"age"     -> "20"</code></pre>
+"name"    -> "Arthur"
+"age"     -> "18"</code></pre>
 
   <h2>📌 Примечания</h2>
   <ul>
