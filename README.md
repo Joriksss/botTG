@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>Telegram Bot: Анкета + Redis</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
-    code, pre { background: #f4f4f4; padding: 4px 8px; border-radius: 4px; }
-    pre { padding: 10px; overflow-x: auto; }
-    h1, h2, h3 { color: #333; }
-  </style>
-</head>
-<body>
-
   <h1>🤖 Telegram Bot: Анкета + Redis</h1>
 
   <p>Этот Telegram-бот позволяет пользователю заполнить мини-анкету (имя и возраст), сохранить её на сервере в Redis и при необходимости просмотреть сохранённые данные.</p>
@@ -76,6 +62,3 @@ requests</code></pre>
 
   <h2>📄 Лицензия</h2>
   <p>MIT — используй, модифицируй, улучшай 🚀</p>
-
-</body>
-</html>
